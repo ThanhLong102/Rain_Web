@@ -1,0 +1,11 @@
+.body {
+  background-color: #f4f4f4;
+}
+:host::ng-deep .p-checkbox-label {
+  font-size: 1rem;
+}
+
+:host::ng-deep .p-checkbox-box {
+  width: 1em;
+  height: 1em;
+}
